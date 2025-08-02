@@ -1,6 +1,6 @@
 *.o
 *.a
-*.so
+# *.so
 *.db
 .vscode
 rmutil/test_vector
